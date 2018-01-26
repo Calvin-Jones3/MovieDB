@@ -37,7 +37,7 @@ Instructions:
 
    -WindowsFormsApp1/WindowsFormsApp1/bin/WindowsFormsApp1.exe
     
-    -or Open the visual studio solution and run from there
+   -or Open the visual studio solution and run from there
     
 -Click the "Run SQL" button 
 
