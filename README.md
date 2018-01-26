@@ -33,6 +33,8 @@ Instructions:
 
 - Click "Start Import"
 
+   - The database should have tables, data, and a stored procedure, but if it does not import correctly I have included SQL files to insert data into the tables, and to create the stored procedure.
+
 - Run the C# program
 
    - WindowsFormsApp1/WindowsFormsApp1/bin/WindowsFormsApp1.exe
