@@ -23,26 +23,26 @@ Theaters - ID, Seats, HandicapAccess
 Instructions:
 ---------
 
--Open MySQL Workbench and run the "Local instance MySQL Router"
+- Open MySQL Workbench and run the "Local instance MySQL Router"
 
-   -User ID: root | Password: Password
+   - User ID: root | Password: Password
     
--Click "Data Import/Restore"
+- Click "Data Import/Restore"
 
--Select "Import from Self-Contained File" and choose IntermedixMovieDB.SQL
+- Select "Import from Self-Contained File" and choose IntermedixMovieDB.SQL
 
--Click "Start Import"
+- Click "Start Import"
 
--Run the C# program
+- Run the C# program
 
-   -WindowsFormsApp1/WindowsFormsApp1/bin/WindowsFormsApp1.exe
+   - WindowsFormsApp1/WindowsFormsApp1/bin/WindowsFormsApp1.exe
     
-   -or Open the visual studio solution and run from there
+   - or Open the visual studio solution and run from there
     
--Click the "Run SQL" button 
+- Click the "Run SQL" button 
 
    - This runs an SQL command to get the first daily start time of each movie
     
--Click the "Run Stored" button
+- Click the "Run Stored" button
 
    - This runs an SQL command that runs a stored procedure in the database, that returns all movies that are playing in theaters that are handicap accessible.
